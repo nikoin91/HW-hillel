@@ -43,12 +43,5 @@ public class Main {
                 + "sales by day is %s %.2f.",
                 productNo2, product2, qtyDays2, currency, totSales2, currency, salesByDay2);
 
-
-
-
-
-
-
-
     }
 }
